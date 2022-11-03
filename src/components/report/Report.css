@@ -1,0 +1,13 @@
+.custom{
+    width: 130px;
+    height: 40px;
+}
+
+.custominput{
+    width: 400px;
+    height: 40px;
+}
+
+span:hover{
+    cursor: pointer;
+}
